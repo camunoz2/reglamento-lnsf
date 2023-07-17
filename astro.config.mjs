@@ -5,20 +5,27 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'My Docs',
+      title: 'Reglamento Interno',
+      locales: {
+        root: {
+          label: 'Español',
+          lang: 'es'
+        }
+      },
+      defaultLocale: "es",
       social: {
-        github: 'https://github.com/withastro/starlight',
+        github: 'https://github.com/camunoz2',
       },
       sidebar: [
         {
-          label: 'Guides',
+          label: 'Introducción',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Example Guide', link: '/guides/example/' },
+            { label: 'Fundamentos', link: '/guides/example/' },
           ],
         },
         {
-          label: 'Reference',
+          label: 'Capitulos',
           autogenerate: { directory: 'reference' },
         },
       ],
