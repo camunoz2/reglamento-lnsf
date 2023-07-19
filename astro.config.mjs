@@ -21,12 +21,12 @@ export default defineConfig({
           label: 'Introducción',
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: 'Fundamentos', link: '/guides/example/' },
+            { label: 'Fundamentos', link: '/fundamentos/intro/' },
           ],
         },
         {
-          label: 'Capitulos',
-          autogenerate: { directory: 'reference' },
+          label: 'Artículos',
+          autogenerate: { directory: 'articulos' },
         },
       ],
     }),
