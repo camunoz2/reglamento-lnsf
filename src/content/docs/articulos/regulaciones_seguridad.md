@@ -15,10 +15,10 @@ saldrán ordenadamente hacia las zonas de seguridad, siguiendo el trayecto indic
 ## Artículo N° 02 : Estrategias de prevención y protocolos de actuación frente a la detección de situaciones de vulneración de derechos de estudiantes. 
 El establecimiento cuenta con estrategias de información y capacitación para prevenir situaciones de riesgo de vulneración de derechos a las que puedan verse enfrentados los estudiantes; se detallan en el siguiente cuadro: 
 
-|              | Estudiantes |  Docentes   | Familia |Asistentes  |
+|              | Estudiantes |  Docentes   | Familia | Asistentes |
 |--------------|-------------|-------------|---------|------------|
 | Información  | informativo |   Charla    | Escuela |            |
-|              | orientación |informativa  |   para  |Capacitación|
+|              | orientación | informativa |   para  |Capacitación|
 |              |  y afiches  |             |  padres |            |
 |              |             |             |         |            |
 |--------------|-------------|-------------|---------|------------|
