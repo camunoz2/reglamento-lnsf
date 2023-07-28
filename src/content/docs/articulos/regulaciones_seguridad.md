@@ -27,3 +27,11 @@ El establecimiento cuenta con estrategias de información y capacitación para p
 |              | prevención  |             |  padres |            |
 |              |             |             |         |            |
 |--------------|-------------|-------------|---------|------------|
+1. Las fechas de las actividades están estipuladas en el Plan de Convivencia Escolar. 
+2. Las redes de apoyo y/o de derivación a las cuales se recurrirá en caso de ser necesario serán: Tribunal de Familia, Carabineros o PDI, Fiscalía, OPD, PRM, PPF, entre otras. 
+3. Difusión y entrega de material informativo constantemente. 
+4. Difusión de los Protocolos de Actuación con respecto al acoso y maltrato escolar. 
+5. El protocolo de actuación se encuentra en PROTOCOLO N° 1.
+
+ ## Artículo N° 03 : Estrategias de prevención y protocolo frente a agresiones sexuales y hechos de connotación sexual que atente contra la integridad de los estudiantes.
+El establecimiento cuenta con estrategias de información y capacitación para prevenir agresiones sexuales y hechos de connotación sexual que atente contra la integridad física y psicológica de los estudiantes a las que puedan verse enfrentados los estudiantes, se detallan en el siguiente cuadro:
