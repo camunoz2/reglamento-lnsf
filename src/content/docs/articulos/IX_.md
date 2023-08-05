@@ -3,7 +3,7 @@ title: Título IX:Normas, faltas, medidas disciplinarias y procedimientos
 description: Normas, faltas, medidas disciplinarias y procedimientos.
 ---
 
-## Artículo N°01: Atenuantes y agravantes:
+## Artículo N° 01: Atenuantes y agravantes:
 Toda medida disciplinaria debe tener un enfoque formativo para toda la comunidad escolar. Será evaluada dependiendo de la gravedad de la conducta, respetando la dignidad de los involucrados.
 Al momento de establecer una medida o sanción se deberá tener en consideración las siguientes atenuantes o agravantes;
 1. La edad, la etapa de desarrollo y madurez de las partes involucradas;
@@ -26,14 +26,14 @@ Al momento de establecer una medida o sanción se deberá tener en consideració
 13. Contexto, interés y motivos: Se refiere al momento (lugar y situación) en que ocurre la falta, las motivaciones y el interés que despierta en su entorno;
 14. Diagnósticos psicológicos y/o psiquiátricos (Deberá estar informado por el apoderado a través de certificados emitidos por especialista y solo se considerará si es presentado antes de cometerse las faltas) informar apoderados que deben entregar primeros días de clases.
 15. Revisión libro de clases digital, anotaciones.
-## Artículo N°02: Del debido proceso:
+## Artículo N° 02: Del debido proceso:
  * El procedimiento debe respetar el debido proceso, es decir, establecer el derecho de todos los involucrados. El debido proceso significa:
  * Siempre escuchar a todas las partes involucradas.
  * Considerar los argumentos de todos los involucrados.
  * Que se presuma inocencia.
  * Derecho apelación.
  * Garantizar un debido proceso justo.
-## Artículo N°03: Acciones u omisiones que se consideran como faltas y su tipificación
+## Artículo N° 03: Acciones u omisiones que se consideran como faltas y su tipificación
 ### a. Faltas leves: 
 Se considerarán como faltas leves contravenir por una vez cualquier deber o disposición del Reglamento Interno de Convivencia Escolar. Son aquellas que alteran escasamente la convivencia escolar, esto es, que no tienen relación con un daño a la integridad física o psicológica de algún miembro de la Comunidad Educativa, ni a las dependencias del Establecimiento.
 1. Asistir a clases sin su uniforme reglamentario.
@@ -76,7 +76,7 @@ Se entiende por faltas gravísimas que afectan la convivencia escolar, aquellos 
 10. Situaciones de ACOSO ESCOLAR toda acción u omisión constitutiva de agresión u hostigamiento reiterado, realizada fuera o dentro del establecimiento por estudiantes que en forma individual o colectiva atenten en contra de otro estudiante, valiéndose de una condición de superioridad provocando maltrato, humillación o fundado temor..
 11. Grabar, exhibir, simular, transmitir o difundir por medios cibernéticos o redes sociales cualquier conducta de maltrato escolar, fotografías de desnudos y/o videos de actos obscenos cometidos por miembros de la comunidad escolar.
 12.-Ser sorprendido teniendo relaciones sexuales en el establecimiento.
-## Artículo N°04: Deber de denunciar cualquier hecho constitutivo de delito y/o vulneración de derecho.
+## Artículo N° 04: Deber de denunciar cualquier hecho constitutivo de delito y/o vulneración de derecho.
 *Existen faltas gravísimas que son constitutivas de delito, se debe recordar que los funcionarios públicos, en nuestro caso, cualquier miembro de la comunidad educativa tienen el deber de denunciar cualquier acción u omisión que revista carácter de delito y que afecte a un miembro de la comunidad educativa; ello implica tanto las faltas y delitos cometidos dentro del establecimiento educacional, como aquellos que ocurren fuera de él, pero que afecten a los y las estudiantes.
 ### Disposiciones legales:
 **Art.175 Código Procesal Penal:** denuncia obligatoria. Están obligados a denunciar: los directores, inspectores, profesores y asistentes de la educación de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento.
@@ -87,7 +87,7 @@ disposiciones especiales, en lo que correspondiere.
 ## Artículo N° 05: Proceso disciplinario Aula Segura ley 21.128
 La ley 21.128 Aula Segura establece que la Directora del establecimiento tendrá la facultad de suspender a los alumnos y miembros de la comunidad escolar como medida cautelar y mientras dure proceso sancionatorio que en un establecimiento educacional que hubieran incurrido en alguna falta grave o gravísima establecidas en el reglamento de convivencia escolar
 afectando gravemente la convivencia escolar que causen daño a la integridad física o síquica de cualquiera de los miembros de la comunidad educativa o de terceros que se encuentren en las dependencias de los establecimientos, tales como agresiones de carácter sexual, agresiones físicas que produzcan lesiones, uso, porte, posesión y tenencia de armas o artefactos incendiarios, así como también los actos que atenten contra la infraestructura esencial para la prestación del servicio educativo por parte del establecimiento.* Revisar Protocolo N° 14 de Actuación LEY AULA SEGURA.
-## Artículo N°06: Medidas disciplinarias y/o formativas que se aplicarán a las faltas establecidas y procedimiento.
+## Artículo N° 06: Medidas disciplinarias y/o formativas que se aplicarán a las faltas establecidas y procedimiento.
 La Política Nacional de Convivencia Escolar, hace especial énfasis en el carácter formativo. El desarrollo humano se va produciendo a lo largo de un complejo proceso de maduración y aprendizaje que ocurre principalmente a través de las interacciones, relaciones y vínculos en los que las personas participan a lo largo de su vida. Los niños y adolescentes se encuentran en una etapa crucial para que su desarrollo sea pleno e integral, por lo que los modos de convivir en los que participen a la larga de la educación parvulario y escolar son muy significativos.
 Los pasos a seguir para la aplicación de acciones formativas, correctivas y sanciones deben ejecutarse en orden jerárquico, teniendo en consideración la tipificación de la falta. (Por regla general las medidas disciplinarias deberán aplicarse de manera gradual y progresiva, procurando agotar previamente aquellas de menor intensidad antes de utilizar las más gravosas.)
 **FALTAS LEVES Y GRAVES:**  Se realizarán las siguientes acciones cuando corresponda:
