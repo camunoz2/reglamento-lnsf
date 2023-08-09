@@ -1,5 +1,5 @@
 ---
-title: TÍTULO V. Regulaciones sobre la seguridad y resguardo de derecho
+title: Título V. Regulaciones sobre la seguridad y resguardo de derecho
 description: Regulaciones sobre la seguridad y resguardo de derecho
 ---
 ## Artículo N°01: Plan de Seguridad (Plan de Evacuación ante Emergencias) 
