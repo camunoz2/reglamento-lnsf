@@ -1,5 +1,5 @@
 ---
-title: TÍTULO IV.- Regulaciones sobre el uso del uniforme escolar,asistencia, salidas pedagógicas y PISE.  
+title: Título IV.- Regulaciones sobre el uso del uniforme escolar,asistencia, salidas pedagógicas y PISE.  
 description: Sobre el uso de uniforme, la asistencia y las salidas pedagógicas
 ---
 
