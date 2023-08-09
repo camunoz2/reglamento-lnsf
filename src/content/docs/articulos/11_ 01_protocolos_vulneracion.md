@@ -6,15 +6,17 @@ description: actuación frente a la detección de situaciones de vulneración de
 
 
 ## N° 1 Protocolo de actuación frente a la detección de situaciones de vulneración de derechos de estudiantes: niños, niñas y adolescentes.  
-**a)** Definición. Se entiende por vulneración de Derechos de Niños, Niñas y Adolescentes cualquier situación en la que se priven, perturben o amenacen los derechos establecidos en la Convención Internacional de los Derechos del Niño, la Constitución Política de la República y las leyes. La vulneración se puede producir por factores personales, familiares o sociales.  
-**b)** Indicios: Los indicios son aquellas actitudes o comportamientos que permiten conocer, sospechar o inferir la existencia de una vulneración de derechos. Los indicios más comunes en el comportamiento que se podrían presentar en alguno de los Alumnos o Alumnas, que fueron o estén siendo víctima de algún tipo de vulneración de derechos, y que pueden generar sospechas fundadas son:  
+### a. Definición:
+Se entiende por vulneración de Derechos de Niños, Niñas y Adolescentes cualquier situación en la que se priven, perturben o amenacen los derechos establecidos en la Convención Internacional de los Derechos del Niño, la Constitución Política de la República y las leyes. La vulneración se puede producir por factores personales, familiares o sociales.  
+### b. Indicios:
+Los indicios son aquellas actitudes o comportamientos que permiten conocer, sospechar o inferir la existencia de una vulneración de derechos. Los indicios más comunes en el comportamiento que se podrían presentar en alguno de los Alumnos o Alumnas, que fueron o estén siendo víctima de algún tipo de vulneración de derechos, y que pueden generar sospechas fundadas son:  
 ● Manifiesta Cambios bruscos y notorios en su “forma de ser”. El Alumno o Alumna comienza a actuar de manera extraña a su comportamiento habitual.  
 ● Presenta Explosiones de Llanto.  
 ● El Alumno o Alumna llora sin razones aparentes, se ve triste, apesadumbrado/a, da la impresión de sufrimiento.  
 ● El Alumno o Alumna Manifiesta Miedo o rechazo desmedido a personas, situaciones o lugares de forma aparentemente irracional.  
 ● El Alumno o Alumna comenta abiertamente que es, o fue, víctima de algún tipo de vulneración o abuso.  
 ● Existen Personas que Manifiestan que algún Alumno o Alumna se encuentra o se encontró en una situación de vulneración, abuso o maltrato.  
-**c)** Tipos de Maltrato o Vulneración de Derechos:  
+### c. Tipos de Maltrato o Vulneración de Derechos:
 **● Maltrato Infantil:** El maltrato infantil es toda acción u omisión que produzca menoscabo en la salud física o psíquica de niños, niñas y estudiantes. En ese sentido, cabe destacar que cualquier tipo de maltrato vulnera los derechos del niño, niña o estudiante, pudiendo ser constitutivo de delito :  
 **● Maltrato** (indicadores físicos: cualquier acción no accidental por parte de padres, madres o cuidadores que provoque daño físico o sea causal de enfermedad en el niño y psicológicos: hostigamiento verbal habitual por medio de insultos, críticas, descréditos, ridiculizaciones, así como la indiferencia y el rechazo explícito o implícito hacia el niño, niña o estudiante .)  
 **● Negligencia o Abandono:** Se refiere a la falta de protección y cuidado mínimo por parte de quienes tienen el deber de hacerlo. Existe negligencia cuando los/as responsables del cuidado y educación de los/as niños/as y adolescentes no atienden ni satisfacen sus necesidades básicas, sean estas físicas, sociales, psicológicas o intelectuales (MINEDUC, 2017).  
