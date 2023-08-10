@@ -10,7 +10,8 @@ description: Protocolo alumnas embarazadas.
 
 *********TABLA IMAGEN*****
 
-**c.** Deberes de estudiantes embarazadas, madres o padres adolescente.
+**c.**
+Deberes de estudiantes embarazadas, madres o padres adolescente.
 Las alumnas en situación de embarazo o maternidad deben cumplir ciertos deberes,cuales son:
 
 
@@ -20,5 +21,13 @@ Las alumnas en situación de embarazo o maternidad deben cumplir ciertos deberes
 
 *********TABLA IMAGEN*****
 
-**e.** Procedimientos. Este protocolo tiene por objeto adoptar una serie de medidas tendientes a retener a las y los estudiantes, velando por su permanencia en el sistema educativo, para lo que dispone del otorgamiento de las facilidades a nivel académico y administrativo que sean necesarias, en atención a su condición: 
+**e.** Procedimientos. Este protocolo tiene por objeto adoptar una serie de medidas tendientes a retener a las y los estudiantes, velando por su permanencia en el sistema educativo, para lo que dispone del otorgamiento de las facilidades a nivel académico y administrativo que sean necesarias, en atención a su condición:
+
 **Protocolo.** Este protocolo tiene por objeto adoptar una serie de medidas tendientes a retener a las y los estudiantes, velando por su permanencia en el sistema educativo, para lo que dispone del otorgamiento de las facilidades a nivel académico y administrativo que sean necesarias, en atención a su condición: 
+
+|  |  |  |  |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
