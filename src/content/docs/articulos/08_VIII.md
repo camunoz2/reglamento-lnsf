@@ -7,7 +7,7 @@ Para comprender que se entiende por convivencia escolar, es fundamental que todo
 Por Convivencia escolar, entenderemos que es “el conjunto de las interacciones y relaciones que se producen entre todos los actores de la comunidad (estudiantes, docentes, asistentes de la educación, directivos, padres, madres y apoderados y sostenedor), abarcando no solo aquellas entre individuos, sino también las que se producen entre los grupos, equipos, cursos y organizaciones internas que forman parte de la institución.
 Todos los miembros de la comunidad educativa son sujetos de derechos. Sin embargo, desde el punto de vista la convivencia escolar, la relación que se establece entre ellos es asimétrica; se encuentran en distintas etapas de desarrollo (los estudiantes se encuentran en una etapa diferente a los adultos, lo que implica que es deber de estos últimos orientarlos y acompañarlos en los procesos de autonomía y autodeterminación).
 El Manual de Convivencia Escolar está fundamentado en base a los Principios Valóricos que sustentan nuestro Proyecto Educativo, a las políticas educacionales emanadas del Ministerio de Educación, Convención sobre los Derechos del Niño, Constitución Política de la República de Chile de 1980 (Reformas 2005) y Código Civil, como también, hemos acogido el llamado que nos hizo el MINEDUC a través de la ley 20.911, para promover y acentuar la formación ciudadana como parte del proceso formativo continuo de nuestros niños, jóvenes y de la Comunidad Escolar del Liceo Bicentenario Nibaldo Sepúlveda Fernández , en general.
-## ARTÍCULO N° 02: Composición y funcionamiento del Consejo Escolar.
+## Artículo N° 02: Composición y funcionamiento del Consejo Escolar.
 Según Decreto N°24/ 2005 en su Artículo 2º: En cada establecimiento educacional subvencionado deberá existir un Consejo Escolar, en adelante "el Consejo", el que tendrá carácter informativo, consultivo y propositivo, salvo que el sostenedor decida darle carácter resolutivo. Sesionará a lo menos 4 veces al año.
 El consejo escolar debe estar conformado por al menos un representante de cada estamento de la comunidad escolar, los cuales son escogidos por sus pares, deberán constituirse formalmente dentro de los tres primeros meses del año escolar y llevar un registro de las sesiones, debe estar conformado por:
 - Representante del sostenedor.
@@ -76,40 +76,28 @@ Establecimiento. También podrá ser consultado respecto de materias disciplinar
 alumnos y de tipo administrativas, según lo que indique la reglamentación y amerite el caso.
 3. Toda situación que requiera ser resuelta por el Consejo de Profesores deberá contar con el
 respaldo del 50% más 1 de los profesores presentes en el Consejo.
-4. La Directora del Establecimiento deberá informar al Consejo de Profesores de su gestión y de
-la marcha del Liceo, reservándose aquello que considera no pertinente informar.
+4. La Directora del Establecimiento deberá informar al Consejo de Profesores de su gestión y de la marcha del Liceo, reservándose aquello que considera no pertinente informar.
 ## Artículo N°06: Encargado(a) de convivencia y plan de gestión de Convivencia Escolar.
 Todos los establecimientos educacionales deberán contar con un Encargado de Convivencia Escolar, que será responsable de la implementación de las medidas que determine el establecimiento, según corresponda y que deberán constar en un Plan de Gestión, siendo este aprobado por el Consejo Escolar.
-### Encargado(a) de convivencia Escolar.
-1. Formar parte del equipo de gestión del establecimiento para asesorar y toma de
-decisiones de dirección.
-2. Coordinar el equipo de convivencia escolar.
-3. Coordinar y monitorea el diseño e implementación del Plan de Gestión de convivencia
-escolar y revisión y actualización del Reglamento interno.
-4. Informar de las actividades del Plan de Gestión de la Convivencia Escolar e incorpora
-medidas propuestas por éste.
-5. Fortalecer y desarrollar estrategias para prevenir y abordar situaciones de violencia
-escolar.
-6. Promueve e informa lineamientos preventivos y formativos de la convivencia escolar
-(PNCE y PEI).
-7. Promover la participación de los distintos actores en la convivencia escolar.
-8. Participar en reuniones de trabajo y coordinación con equipo directivo o de gestión
-institucional.
-9. Atender a estudiantes, padres, madres y/o apoderados, que presenten necesidades y/o
-dificultades específicas en su participación en la convivencia.
-1. Desarrollar junto al equipo de convivencia escolar actividades en formato taller y/o capacitaciones a docentes, asistentes de la educación, estudiantes, padres y apoderados.
-2. Asistir a reuniones convocadas por Encargado Comunal de Convivencia Escolar, para articular y complementar el trabajo del liceo con el nivel comunal (red territorial, modelo ABE, otros).
-3. Registrar las acciones realizadas por el equipo de convivencia escolar y sus integrantes (actas, evidencia, otros).
-4. Coordinar acciones con docentes, equipos multidisciplinarios, alumnos, apoderados, asistentes de la educación, otros.
-5. Realizar investigaciones y emitir informes respectivos de acuerdo a los procedimientos establecidos Reglamento Interno y de Convivencia Escolar.
-6. Participar en el consejo de profesores/as del establecimiento.
-### Plan de gestión convivencia escolar
-La convivencia escolar en los últimos años ha ido adquiriendo una alta relevancia en los establecimientos educacionales, conceptos como clima escolar que nos indica que es la percepción que tienen los integrantes de la comunidad respecto a las relaciones interpersonales que existen en el contexto escolar y también el ambiente en el cual se producen esas interacciones, son terminología que hemos ido conociendo y trabajando para generar cambios, es por ello que debemos contar con un Plan de Gestión de Convivencia Escolar, el cual coordina el trabajo a realizarse con todos los miembros de la comunidad escolar en su conjunto, es una propuesta anual, establece un cronograma de trabajo mensual acorde al calendario escolar de cada año, trabajando temáticas relevantes, este año se incluyeron acciones
-preventivas y formativas con respecto a la Salud Mental de todos los miembros de la comunidad educativa.
-Todos los actores de la comunidad escolar necesitan convivir y relacionarse en un ambiente tranquilo, libre de violencia promoviendo el buen trato y respeto.
-Los conflictos están presentes en la vida cotidiana, pueden ser un obstáculo o una oportunidad para el aprendizaje y el crecimiento personal y grupal. En este marco, las estrategias de gestión colaborativa para la resolución de problemáticas es un elemento
-fundamental, ya que un buen abordaje de estas situaciones, permitirá entregar a los estudiantes nuevas herramientas para la convivencia.
-A continuación se presentan las medidas adoptadas y/o estrategias para la resolución de conflictos entre todos los miembros de la comunidad educativa.  
+### Encargado(a) de convivencia Escolar. 
+
+1. Formar parte del equipo de gestión del establecimiento para asesorar y toma de decisiones de dirección.
+2. Coordinar el equipo de convivencia escolar. 
+3. Coordinar y monitorea el diseño e implementación del Plan de Gestión de convivencia escolar y revisión y actualización del Reglamento interno.
+4. Informar de las actividades del Plan de Gestión de la Convivencia Escolar e incorpora medidas propuestas por éste.
+5. Fortalecer y desarrollar estrategias para prevenir y abordar situaciones de violencia escolar. 
+6. Promueve e informa lineamientos preventivos y formativos de la convivencia escolar (PNCE y PEI). 
+7. Promover la participación de los distintos actores en la convivencia escolar. 
+8. Participar en reuniones de trabajo y coordinación con equipo directivo o de gestión institucional. 
+9. Atender a estudiantes, padres, madres y/o apoderados, que presenten necesidades y/o dificultades específicas en su participación en la convivencia. 
+10. Desarrollar junto al equipo de convivencia escolar actividades en formato taller y/o capacitaciones a docentes, asistentes de la educación, estudiantes, padres y apoderados.
+11. Asistir a reuniones convocadas por Encargado Comunal de Convivencia Escolar, para articular y complementar el trabajo del liceo con el nivel comunal (red territorial, modelo ABE, otros).
+12. Registrar las acciones realizadas por el equipo de convivencia escolar y sus integrantes (actas, evidencia, otros).
+13. Coordinar acciones con docentes, equipos multidisciplinarios, alumnos, apoderados, asistentes de la educación, otros.
+14. Realizar investigaciones y emitir informes respectivos de acuerdo a los procedimientos establecidos Reglamento Interno y de Convivencia Escolar. 
+15. Participar en el consejo de profesores/as del establecimiento. 
+### Plan de gestión convivencia escolar.
+La convivencia escolar en los últimos años ha ido adquiriendo una alta relevancia en los establecimientos educacionales, conceptos como clima escolar que nos indica que es la percepción que tienen los integrantes de la comunidad respecto a las relaciones interpersonales que existen en el contexto escolar y también el ambiente en el cual se producen esas interacciones, son terminología que hemos ido conociendo y trabajando para generar cambios, es por ello que debemos contar con un Plan de Gestión de Convivencia Escolar, el cual coordina el trabajo a realizarse con todos los miembros de la comunidad escolar en su conjunto, es una propuesta anual, establece un cronograma de trabajo mensual acorde al calendario escolar de cada año, trabajando temáticas relevantes, este año se incluyeron acciones preventivas y formativas con respecto a la Salud Mental de todos los miembros de la comunidad educativa. Todos los actores de la comunidad escolar necesitan convivir y relacionarse en un ambiente tranquilo, libre de violencia promoviendo el buen trato y respeto. Los conflictos están presentes en la vida cotidiana, pueden ser un obstáculo o una oportunidad para el aprendizaje y el crecimiento personal y grupal. En este marco, las estrategias de gestión colaborativa para la resolución de problemáticas es un elemento fundamental, ya que un buen abordaje de estas situaciones, permitirá entregar a los estudiantes nuevas herramientas para la convivencia. A continuación se presentan las medidas adoptadas y/o estrategias para la resolución de conflictos entre todos los miembros de la comunidad educativa. 
 
 |  |  |
 |---|---|
