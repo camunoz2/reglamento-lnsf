@@ -1,10 +1,10 @@
 ---
-title: Reglamento Interno y de convivencia Escolar Educación Parvularia.
+title: Anexo 1. Reglamento Interno y de convivencia Escolar Educación Parvularia.
 description: Reglamento Interno y de convivencia Escolar Educación Parvularia.
 ---
 ## Visión, misión y sellos educativos
 ### visión. 
-Ser una comunidad educativa que propicie un proceso de enseñanza aprendizaje de calidad, integral e inclusivo; desarrollando jóvenes líderes, autónomos, con pensamiento crítico reflexivo y valórico; promocionando la identidad y diversidad artístico- cultural, las normas de convivencia y hábitos de vida sana. 
+Ser una comunidad educativa que propicie un proceso de enseñanza aprendizaje de calidad, integral e inclusivo; desarrollando jóvenes líderes, autónomos, con pensamiento crítico reaflexivo y valórico; promocionando la identidad y diversidad artístico- cultural, las normas de convivencia y hábitos de vida sana. 
 ### Misión.
 Desarrollar una formación científico – humanista de calidad, potenciando al máximo el desarrollo integral de las habilidades cognitivas, artísticas - culturales, afectivo - sociales, valóricas y de vida sana de todos los miembros que conforman la comunidad educativa, en un ambiente de respeto mutuo y de sana convivencia. 
 
@@ -273,12 +273,7 @@ Se considera conductas transgresoras entre adultos: Se considera como falta grav
  • Fomentando de manera pacífica la resolución de conflictos: Desarrollar en los adultos habilidades para resolver asertivamente los conflictos ente ellos.
 
 
-Protocolo n° 6 De actuación frente a accidentes de párvulos *Revisar Protocolo de accidentes escolares en Reglamento Interno institucional. Este documento llamado Reglamento Interno de Educación Parvularia, tiene sus bases en el Reglamento interno y manual de convivencia escolar de nuestro Liceo Bicentenario Nibaldo Sepúlveda Fernández, por lo tanto, rige, además, para el nivel de Educación Parvularia, toda norma que se detalla en este último, excepto aquellas que tienen relación con las “sanciones”. Cualquier situación no descrita en este Reglamento Interno de Educación Parvularia será evaluada y resuelta por la Dirección del establecimiento junto al equipo directivo, con el apoyo de los profesionales del ciclo, y de acuerdo a las normativas vigentes. Anexo 2: Plan de acciones que fomenten la salud mental a toda la Comunidad Educativa plan de acciones que fomenten la salud mental a toda la Comunidad Educativa La ejecución de este plan tiene como objetivo fomentar el cuidado de la salud mental de la comunidad está dividido en 3 acciones claves para la planificación y ejecución de acciones y protocolos.
+Protocolo n° 6 De actuación frente a accidentes de párvulos *Revisar Protocolo de accidentes escolares en Reglamento Interno institucional. Este documento llamado Reglamento Interno de Educación Parvularia, tiene sus bases en el Reglamento interno y manual de convivencia escolar de nuestro Liceo Bicentenario Nibaldo Sepúlveda Fernández, por lo tanto, rige, además, para el nivel de Educación Parvularia, toda norma que se detalla en este último, excepto aquellas que tienen relación con las “sanciones”. Cualquier situación no descrita en este Reglamento Interno de Educación Parvularia será evaluada y resuelta por la Dirección del establecimiento junto al equipo directivo, con el apoyo de los profesionales del ciclo, y de acuerdo a las normativas vigentes. 
 
-------------------tabla ---------------
-
-Anexo 3: PISE se puede descargar directamente en página web institucional https://www.liceonibaldo.cl/ Anexo 4: Evaluación se puede descargar directamente en página web institucional https://www.liceonibaldo.cl/ Anexo 5: Protocolo de actuación diabetes Mellitus se puede descargar directamente en página web institucional https://www.liceonibaldo.cl
-
-Toda situación no prevista en el presente reglamento interno y de convivencia escolar será resuelta por la Dirección del Liceo Bicentenario Nibaldo Sepúlveda Fernández.
 
 ----------- imagen firmas ----------------
