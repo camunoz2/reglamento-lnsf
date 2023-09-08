@@ -13,11 +13,17 @@ description: En este artículo se hace mención a Protocolo de acción frente a 
 **3.** Permitir al estudiante la expresión de sus emociones sin interrumpirle.  
 **4.** Una vez concluida la primera respuesta emocional, cuando el estudiante refiera estar más tranquilo(a), instar a recibir ayuda y a acercarse a redes de apoyo social, en caso de que él o la alumna refiera no contar con amistades o apoyo familiar reforzar la necesidad de buscar ayuda ofreciendo el apoyo de los profesionales del establecimiento.  
 **5. Derivar obligatoriamente a convivencia escolar**, quienes informarán al encargado de convivencia escolar y/o psicólogo a fin de que activen el protocolo. Plazo máx 24 hrs.
-
----------tabla --------
-
-**c** Una vez recibida la derivación, psicóloga(o) o encargado de convivencia del establecimiento deberá realizar entrevista indagatoria, aplicando en ella la Pauta para la evaluación y el manejo del riesgo suicida. Realizando las siguientes acciones dependiendo de los niveles de riesgo: plazo máx 48 hrs 
-
+|                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Indicadores de riesgo suicida.                                                                                                              |
+| 1) Evidente falta de ánimo y/o energía.                                                                                                     |
+| 2) Incapacidad para sentir placer o disfrutar actividades que previamente gozaba.                                                           |
+| 3) Aislamiento social de amigos o familiares.                                                                                               |
+| 4) Cambios frecuentes de ánimo o conducta.                                                                                                  |
+| 5) Conductas autolesivas, tales como cortes en los brazos, piernas, etc., o cualquier otro intento de hacer daño a si misma(o) a propósito. |
+| 6) Verbalizaciones respecto a pocos deseos de vivir y/o falta de sentido en la vida.                                                        |
+| 7) Verbalizaciones respecto a la intención de suicidio, incluyendo aquellas en tono satírico o de broma.                                    |
+**c** Una vez recibida la derivación, psicóloga(o) o encargado de convivencia del establecimiento deberá realizar entrevista indagatoria, aplicando en ella la Pauta para la evaluación y el manejo del riesgo suicida. Realizando las siguientes acciones dependiendo de los niveles de riesgo: plazo máx 48 hrs  
 **1. Riesgo:**  
 1.1. Informar a convivencia escolar sobre el riesgo detectado.  
 1.2. Contactar al apoderado(a) para informarle la activación del protocolo y las acciones realizadas y posteriores a tomar.  

@@ -19,3 +19,9 @@ description: Protocolo Ley 20.606.Composición nutricional de los alimentos y su
  Se promoverá en conjunto con la restricción de la venta de alimentos “ALTOS EN” dentro del establecimiento educativo, un programa de estandarización de Colaciones Saludables (calendario de colaciones para pre básica y primer ciclo), incentivando a los padres que de enviar colaciones a sus hijos (cosa que no es necesaria en la mayoría de los casos), opten por productos saludables. Sin embargo, la decisión en este aspecto es propia de cada padre de lo que desee enviar al colegio para su hijo y el reglamento no impone sanciones en este caso.
 
  ---------------imagen---------
+
+ **5. Entrega de colaciones o insumos alimenticios a los estudiantes en caso de eventos institucionales organizados por el colegio:**  
+ Se promoverá la entrega de colaciones saludables por parte del recinto educativo en caso de alguna actividad extra programática institucional, para lo cual se entregan opciones de colaciones las cuales pueden ser modificadas en cuanto a su estructura mezclando los diferentes productos.
+
+ -------tabla------
+
