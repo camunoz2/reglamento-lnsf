@@ -15,7 +15,18 @@ Desarrollar una formación científico – humanista de calidad, potenciando al 
 4. Formar parte de la Red de Liceos Bicentenarios del País. 
 ## Identificación de la comunidad educativa
 
----------tabla-------
+| Establecimiento           | Anexo Liceo Bicentenario Nibaldo Sepúlveda Fernández                                     |
+|---------------------------|------------------------------------------------------------------------------------------|
+| RBD                       | 4032-0                                                                                   |
+| Teléfono                  | 422200868                                                                                |
+| Correo electrónico        |  liceonisep@gmail.com                                                                    |
+| Dirección                 | Calle Arturo Prat s/n                                                                    |
+| Comuna                    | Portezuelo                                                                               |
+| Directora Establecimiento | Macarena Martínez Fernández                                                              |
+| Jornada                   | Completa                                                                                 |
+| Niveles                   | Niveles de Transición 1 y 2                                                              |
+| Horario de Atención       | 08:30 a 15:55 Lunes, Jueves. 08:30 a 17:35 Martes y Miércoles. 08:30 a 13:30 hrs Viernes |
+
 
 ### Introducción.
 El presente instrumento está diseñado para regular las relaciones entre los miembros de la comunidad educativa, regida por derechos y deberes, definiendo su organización y funcionamiento de convivencia basada en el buen trato. La educación tiene como finalidad contribuir al desarrollo y formación integral de los párvulos colaborando en su proceso de integración a la vida social, habilitándolos para una participación responsable en la vida ciudadana y en el protagonismo de su propio proyecto de vida. Para lograr esto, el Anexo del Liceo Bicentenario Nibaldo Sepúlveda Fernández, necesita llevar a cabo su misión, “Desarrollar una formación científico – humanista de calidad, potenciando al máximo el desarrollo integral de las habilidades cognitivas, artísticas - culturales, afectivo - sociales, valóricas y de vida sana de todos los miembros que conforman la comunidad educativa, en un ambiente de respeto mutuo y de sana convivencia”, desarrollando en ellos los valores que declara el PEI y buenos hábitos de higiene personal y ambiental, comprometiendo en ello a todos los miembros de la comunidad educativa. desarrollando en ellos los valores que declara el PEI y buenos hábitos de higiene personal y ambiental, comprometiendo en ello a todos los miembros de la comunidad educativa.
@@ -101,7 +112,25 @@ En el momento de la matrícula, cada familia deberá designar formalmente y defi
 ## Título N° 2 Regulaciones técnico- administrativas sobre estructura y funcionamiento general del establecimiento educacional.
 ### Artículo N° 1 el equipo técnico pedagogico del anexo y cantidad de párvulos según nivel.
 
--------------tabla-------
+| Coeficiente técnico                 | cantidad  |
+|-------------------------------------|-----------|
+| Educadoras de educación parvularia  | 2         |
+| Técnico de educación parvularia     | 4         |
+| Auxiiar de servicio                 | 1         |
+| Manipuladora de alimentos           | 1         |
+
+| Niveles de Transición cantidad de párvulos  | Cantidad de párvulos |
+|---------------------------------------------|----------------------|
+| Nivel de transición 1 (prekínder)           | 22                   |
+| Nivel de transición 2 (kínder)              | 27                   |
+
+| Otros profesionales     | Cantidad |
+|-------------------------|----------|
+| Fonouadiólogo           | 1        |
+| Profesora especialista  | 1        |
+| Terapeuta ocupacional   | 1        |
+| Dupla psicosocial       | 1        |
+
 
 ### Artículo N° 2 Regulaciones referidas a la gestión pedagógica.  
 ● La gestión pedagógica se organizará de la siguiente forma: Se contará en cada nivel, con una Educadora de Párvulos y con la cantidad de asistentes que indican la norma para cada nivel, para la atención adecuada de los párvulos.  
@@ -143,7 +172,12 @@ En el momento de la matrícula, cada familia deberá designar formalmente y defi
 ● Todas las disposiciones sobre el proceso de admisión y matrícula se basan en los principios contemplados en la LGE.  
 ● Edad mínima como requisito para el ingreso a los diferentes tramos de educación Parvularia, se considera cumplir con la edad mínima reglamentaria, según Decreto 1126, de septiembre del 2017. 
 
-------------tabla-----------
+|        Nivel                   |  Edad                               |
+|---------------------------|---------------------------------|
+| Primer Nivel Transición   | 4 años cumplidos al 31 de marzo |
+| Segundo Nivel Transición  | 5 años cumplidos al 31 de marzo |
+
+
 
 ### Artículo n° 2 Regulaciones referidas al proceso de matrícula. 
 Una vez realizados los procesos antes descritos según cada modalidad educativa del ciclo parvulario, los apoderados realizan la matrícula en el establecimiento.  
@@ -166,8 +200,9 @@ La educación referente a la prevención de accidentes escolares es la fase del 
 
 Esta acción involucra a casi la totalidad del personal, cada uno en su área de responsabilidad. La responsabilidad que le compete a la educación formal dice relación con la formación en el educando de hoy, de un conjunto de aptitudes, hábitos y destrezas intelectuales, motrices y afectivas que le permita adoptar, entre otros, aspectos importantes, normas de conductas vinculadas con formas de vida que preserven la seguridad personal y colectiva.  
 
-La acción educativa no debe imponer reglas al respecto, sino propiciar la aplicación de una metodología que explique de acuerdo al grado de madurez de los alumnos, las ventajas que conlleva la adopción de normas de conducta aplicadas en la vida diaria que eviten situaciones de riesgo. Leer PISE incluido como anexo en el R.Interno. Artículo n° 2 Regulaciones con respecto al ámbito de higiene y cuidado personal
+La acción educativa no debe imponer reglas al respecto, sino propiciar la aplicación de una metodología que explique de acuerdo al grado de madurez de los alumnos, las ventajas que conlleva la adopción de normas de conducta aplicadas en la vida diaria que eviten situaciones de riesgo. Leer PISE incluido como anexo en el R.Interno. 
 
+### Artículo n° 2 Regulaciones con respecto al ámbito de higiene y cuidado personal
 Una de las necesidades básicas que tienen los niños y niñas, es aquella referida a su higiene y aseo personal, siendo las familias las primeras responsables de satisfacer esta necesidad. · Es responsabilidad de las familias enviar al establecimiento algunos elementos personales para el aseo (cepillo y pasta de dientes y toalla de mano con una tira para colgar en su cuello) · Los párvulos del establecimiento deberán mantener hábitos de higiene y presentación personal acordes a la calidad de educandos. 
 #### 2.1 Medidas de higiene diaria.  
 ● Con el fin de formar hábitos, se establecerá dentro de la rutina diaria de los párvulos, horarios definidos para ir al baño y para el lavado de manos, en compañía y bajo la supervisión de sus tías educadoras y asistentes de aula.  
@@ -203,15 +238,31 @@ Es responsabilidad de todos los adultos de la comunidad educativa mantener una r
 Cualquier acontecimiento extraordinario que ocurra en el establecimiento o en actividades educativas fuera de éste, registrando lo sucedido en la libreta de comunicaciones o vía telefónica donde el apoderado tendrá derecho a pedir la más completa información al respecto a la directora/a del establecimiento o encargada del nivel educativo correspondiente, tales como:  
 ● Suspensión planificada de actividades para fortalecer el trabajo educativo (planificación, tarde de formación u otras). Éstas deben ser previamente calendarizadas e informadas a las familias a través de la Libreta de Comunicaciones.  
 ● Suspensión de actividades asociadas a situaciones de contingencia como cortes de servicios básicos, fumigación o cualquier otra situación que pueda poner en riesgo la salud y seguridad de niños, niñas y trabajadoras/es. 
-Artículo n° 1 Actuación frente al incumplimiento de las normas básicas de funcionamiento y/o de convivencia. ● Los niños y niñas no serán sancionados por sus comportamientos (no se cancelará su matrícula, ni suspenderá asistencia y/o no se realizarán cambios de nivel de manera arbitraria) y será responsabilidad del equipo educativo y de su familia trabajar en conjunto las estrategias más adecuadas para evitar situaciones que afecten al niño o niña, a sus compañeros(as) y a otros integrantes de la comunidad educativa. ● Se espera que, durante esta etapa escolar, los niños y niñas comiencen a desarrollar y adquirir normas en un contexto social escolarizado, haciendo énfasis en lo actitudinal y valórico, en torno al respeto, compañerismo, empatía, solidaridad y trabajo colaborativo. ● El modelamiento de conductas prosociales y buen trato desarrolladas en el hogar y el colegio son esenciales como referente para los niños y niñas. ● Respetando el tramo educativo y la autonomía progresiva de los párvulos, se les exigirá paulatinamente, la aceptación y respeto de normas básicas de buena conducta y convivencia dentro de la sala de clases, manteniendo buenas relaciones en la interacción con sus pares, educadoras y personal del establecimiento. ● Se espera que los párvulos vayan logrando durante el año y a través de un proceso formativo desarrollado en el aula y con el apoyo constante de la familia, la autorregulación de conductas agresivas o inapropiadas, frente a sus pares y/o adultos a cargo. ● Se considerarán situaciones a las que haya que atender desde la convivencia escolar, las agresiones físicas y verbales en contra de cualquier miembro de la comunidad escolar. Frente a la presencia de éstas, se dejará registro y se derivará a la dupla psicosocial del establecimiento para generar un plan formativo. Artículo 2 Plan de acciones formativas en educación parvularia · Se realizará un trabajo formativo con el o los párvulos involucrados, tanto individual como grupal, a través del equipo de convivencia escolar, las educadoras a cargo y los apoderados de los menores. · Dialogar con el alumno, establecer compromisos y llevar comunicaciones al hogar en su agenda. · En casos reiterados, será llamado el apoderado a una entrevista con la educadora, departamento de convivencia escolar · Conversaciones y/o Talleres al grupo de niños, niñas, padres y apoderados, a cargo del departamento de convivencia escolar, brindando estrategias en la resolución pacífica de conflictos, lo que implica aprender a compartir, a jugar y relacionarse con el entorno social y cultural · Derivaciones a especialistas de apoyo interno (psicólogos), que puedan aportar al párvulo y su familia en el proceso de lograr objetivos de socialización y buena convivencia con su comunidad. · Estimular colectivamente, los avances manifestados por los menores · Si la situación planteada que afecta a uno o más párvulos y/o su entorno requiera una mediación entre los apoderados de los involucrados, se desarrollará al interior del anexo con la presencia del departamento de convivencia escolar, la educadora y las familias.
+### Artículo N° 1. Actuación frente al incumplimiento de las normas básicas de funcionamiento y/o de convivencia. 
+● Los niños y niñas no serán sancionados por sus comportamientos (no se cancelará su matrícula, ni suspenderá asistencia y/o no se realizarán cambios de nivel de manera arbitraria) y será responsabilidad del equipo educativo y de su familia trabajar en conjunto las estrategias más adecuadas para evitar situaciones que afecten al niño o niña, a sus compañeros(as) y a otros integrantes de la comunidad educativa. 
+● Se espera que, durante esta etapa escolar, los niños y niñas comiencen a desarrollar y adquirir normas en un contexto social escolarizado, haciendo énfasis en lo actitudinal y valórico, en torno al respeto, compañerismo, empatía, solidaridad y trabajo colaborativo. 
+● El modelamiento de conductas prosociales y buen trato desarrolladas en el hogar y el colegio son esenciales como referente para los niños y niñas. 
+● Respetando el tramo educativo y la autonomía progresiva de los párvulos, se les exigirá paulatinamente, la aceptación y respeto de normas básicas de buena conducta y convivencia dentro de la sala de clases, manteniendo buenas relaciones en la interacción con sus pares, educadoras y personal del establecimiento. 
+● Se espera que los párvulos vayan logrando durante el año y a través de un proceso formativo desarrollado en el aula y con el apoyo constante de la familia, la autorregulación de conductas agresivas o inapropiadas, frente a sus pares y/o adultos a cargo. 
+● Se considerarán situaciones a las que haya que atender desde la convivencia escolar, las agresiones físicas y verbales en contra de cualquier miembro de la comunidad escolar. Frente a la presencia de éstas, se dejará registro y se derivará a la dupla psicosocial del establecimiento para generar un plan formativo. 
+### Artículo 2 Plan de acciones formativas en educación parvularia 
+- Se realizará un trabajo formativo con el o los párvulos involucrados, tanto individual como grupal, a través del equipo de convivencia escolar, las educadoras a cargo y los apoderados de los menores. 
+- Dialogar con el alumno, establecer compromisos y llevar comunicaciones al hogar en su agenda. 
+- En casos reiterados, será llamado el apoderado a una entrevista con la educadora, departamento de convivencia escolar  
+- Conversaciones y/o Talleres al grupo de niños, niñas, padres y apoderados, a cargo del departamento de convivencia escolar, brindando estrategias en la resolución pacífica de conflictos, lo que implica aprender a compartir, a jugar y relacionarse con el entorno social y cultural 
+- Derivaciones a especialistas de apoyo interno (psicólogos), que puedan aportar al párvulo y su familia en el proceso de lograr objetivos de socialización y buena convivencia con su comunidad. 
+- Estimular colectivamente, los avances manifestados por los menores 
+- Si la situación planteada que afecta a uno o más párvulos y/o su entorno requiera una mediación entre los apoderados de los involucrados, se desarrollará al interior del anexo con la presencia del departamento de convivencia escolar, la educadora y las familias.
 
 ### Artículo N° 2 Reclamos.  
 Todo reclamo por conductas contrarias a las normas de funcionamiento y la convivencia del establecimiento o nivel educativo deberá ser presentado en primera instancia en forma verbal o escrita ante la educadora a cargo del nivel, luego al Director del establecimiento o a quien lo subrogue en ese momento, debiendo dejar constancia escrita de lo relatado en el medio que esté especialmente dispuesto para ello en el establecimiento.
 
 Desde el momento de la toma de conocimiento, el plazo máximo para analizar los hechos, diseñar las estrategias de abordaje e informar a las partes involucradas es de 15 días hábiles.  
-## Titulo N° 7 Protocolo de actuación pertinentes al ciclo de Educación Parvularia.
-
- **Protocolos de actuación pertinentes al ciclo de educación parvularia del Liceo Bicentenario Nibaldo Sepúlveda Fernández incluidos en el reglamento interno institucional.**.  
+## Titulo N° 7 Protocolo de actuación pertinentes al ciclo de Educación Parvularia. 
+ 
+ 
+ ### Protocolos de actuación pertinentes al ciclo de educación parvularia del Liceo Bicentenario Nibaldo Sepúlveda Fernández incluidos en el reglamento interno institucional.
+   
  **Protocolo N° 1 De actuación frente a la detección de situaciones de vulneración de derechos de estudiantes: niños, niñas y adolescentes.**
  
  **Protocolo N° 2 De actuación frente a agresiones y/o abusos sexuales y hechos de connotación sexual.**
