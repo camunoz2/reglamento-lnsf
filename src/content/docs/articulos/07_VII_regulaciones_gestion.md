@@ -1,9 +1,7 @@
 ---
-title: Título VII. Aprobación, modificación, actualización y difusión
-description: Aprobación, modificación, actualización y difusión.
+title: Título VII. Aprobación, modificación, actualización y difusión del Reglamento Interno
+description: Aprobación, modificación, actualización y difusión del reglamento interno
 ---
-
-Del reglamento interno
 ## Artículo N°01 Aprobación, actualización y modificaciones
 El presente reglamento será aprobado por el Equipo de Gestión del Establecimiento, junto al Consejo Escolar. Se revisará constantemente realizando actualizaciones según corresponda.
 ## Artículo N°02: Difusión y entrada en vigencia
