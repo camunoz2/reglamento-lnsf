@@ -17,14 +17,10 @@ description: Protocolo Ley 20.606.Composición nutricional de los alimentos y su
  No se permitirá a los alumnos salir del recinto educativo a realizar compras a los negocios aledaños durante la jornada de clase, esto como una medida para favorecer el consumo de los alimentos entregados en el colegio por parte de JUNAEB y además como una forma de evitar el ingreso de comida “chatarra” al establecimiento educativo. Aquellos alumnos que acuden a almorzar a sus casas, no podrán ingresar productos “chatarras” al recinto (papas fritas, completos, pizzas, etc). Esto será supervisado y al detectar a alguien en alguna falta se procederá a requisar el producto y el alumno será enviado a convivencia escolar. Responsable: Alumnos (as) Responsables de la supervisión: Profesores, Inspectores de patio y portería.  
  **4. Colaciones que los alumnos traen al colegio:**  
  Se promoverá en conjunto con la restricción de la venta de alimentos “ALTOS EN” dentro del establecimiento educativo, un programa de estandarización de Colaciones Saludables (calendario de colaciones para pre básica y primer ciclo), incentivando a los padres que de enviar colaciones a sus hijos (cosa que no es necesaria en la mayoría de los casos), opten por productos saludables. Sin embargo, la decisión en este aspecto es propia de cada padre de lo que desee enviar al colegio para su hijo y el reglamento no impone sanciones en este caso.
+ 
+ ![colaciones escolares](/src/assets/colaciones_escolares.png)
 
- ![Descripción de la imagen](/home/alonso4678/reglamento-lnsf/src/content/imagenes/imagen_pag_82.jpg)
-
- )
-
- ---------------imagen---------
-
- **5. Entrega de colaciones o insumos alimenticios a los estudiantes en caso de eventos institucionales organizados por el colegio:**  
+  **5. Entrega de colaciones o insumos alimenticios a los estudiantes en caso de eventos institucionales organizados por el colegio:**  
  Se promoverá la entrega de colaciones saludables por parte del recinto educativo en caso de alguna actividad extra programática institucional, para lo cual se entregan opciones de colaciones las cuales pueden ser modificadas en cuanto a su estructura mezclando los diferentes productos.
  |  |
 |---|
