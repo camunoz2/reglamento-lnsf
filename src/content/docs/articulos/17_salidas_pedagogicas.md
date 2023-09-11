@@ -13,4 +13,10 @@ Para la gestión de todas las salidas pedagógicas y/o clases en terreno, se deb
 **5. Reporte pedagógico posterior a la salida:** Todas las salidas pedagógicas y/o clases en terreno ejecutadas durante el año, deben dejar algún medio de verificación del trabajo pedagógico concreto de los estudiantes que asisten a ella, esto porque su objetivo principal siempre debe ser desarrollar aprendizajes en los estudiantes. Ante esto, cada responsable, debe entregar a la UTP del EE, un breve reporte pedagógico posterior a la salida, este reporte se basa en un formato simple al que se adjuntan evidencias como guías y/o trabajos elaboradas por estudiantes, fotografías, etc. El plazo de entrega del reporte es hasta 15 días hábiles posterior a la salida.  
 **6. Acompañamiento de apoderados.** El foco principal de la inversión SEP son los estudiantes, por lo que el acompañamiento de apoderados a las salidas, queda restringido solo a los casos que lo ameriten, producto de alguna necesidad especial de algún estudiante que participa. Esta decisión debe ser analizada y respaldad por el Equipo Directivo del EE.
 
-------------tabla-----------
+| Pasos | Acciones | Responsables | Plazo |
+|---|---|---|---|
+| 1.- Planificación salida | Cada docente que tenga dentro del año en curso una salida pedagógica debe realizar una planificación con los antecedentes descritos anteriormente, | Docente de asignatura, jefe. | Anual. |
+| 2.- Entrega documentación UTP | Cada docente debe entregar la planificación para revisión de esta por parte de UTP, luego se enviará autorización a los apoderados. | UTP | 1 mes antes de la salida. |
+| 3.- Oficio conductor DAEM-DEPROV | UTP enviará la documentación requerida para el patrocinio mediante oficio conductor al DAEM | UTP, Dirección | 15 días mínimo. |
+| 4.- Salida pedagógica | Cada docente con patrocinio de la DEPROV se hace responsable de la salida. | Docente de asignatura, jefe | Dia de la salida. |
+| 5.- Entrega reporte post salida | Cada docente posterior realizada la salida tiene que realizar un reporte a UTP | Docente de asignatura, jefe | 15 posterior a la salida mín. |

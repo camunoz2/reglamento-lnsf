@@ -18,10 +18,19 @@ description: Protocolo Ley 20.606.Composición nutricional de los alimentos y su
  **4. Colaciones que los alumnos traen al colegio:**  
  Se promoverá en conjunto con la restricción de la venta de alimentos “ALTOS EN” dentro del establecimiento educativo, un programa de estandarización de Colaciones Saludables (calendario de colaciones para pre básica y primer ciclo), incentivando a los padres que de enviar colaciones a sus hijos (cosa que no es necesaria en la mayoría de los casos), opten por productos saludables. Sin embargo, la decisión en este aspecto es propia de cada padre de lo que desee enviar al colegio para su hijo y el reglamento no impone sanciones en este caso.
 
+ ![Descripción de la imagen](/home/alonso4678/reglamento-lnsf/src/content/imagenes/imagen_pag_82.jpg)
+
+ )
+
  ---------------imagen---------
 
  **5. Entrega de colaciones o insumos alimenticios a los estudiantes en caso de eventos institucionales organizados por el colegio:**  
  Se promoverá la entrega de colaciones saludables por parte del recinto educativo en caso de alguna actividad extra programática institucional, para lo cual se entregan opciones de colaciones las cuales pueden ser modificadas en cuanto a su estructura mezclando los diferentes productos.
+ |  |
+|---|
+| **Opción 1:**<br>1 caja de jugo individual (200 cc) sin azúcar (marca Vivo, Livean, En línea,regimel, etc) <br>1 barra de cereal marca Quaquer, En linea<br>1 fruta de estación (Naranja — Manzana — Plátano) |
+| **Opción 2:**<br>1 caja de jugo individual (200 cc) sin azíicar (marca Vivo, Livean, En línea,regimel, etc)<br>1 paquete chico de galletas integrales o de agua o 1 porción de frutos secos.<br>1 fruta de estación (Naranja — Manzana — Plátano) |
+| **Opción 3:**<br>1 caja de leche descremada (200 cc) con o sin sabor o yogurt diet.<br>1 barra de cereal marca Quaquer o 1 porción de frutos secos.<br>1 jalea individual libre de azúcar. |
 
- -------tabla------
+ **NOTA:** Dependiendo del tipo y duración de la actividad, la porción de cereal puede o nocon sistir en 1 porción de pan con agregado. Se da la opción de adicionar agua ala colación.
 
