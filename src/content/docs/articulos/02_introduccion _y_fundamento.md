@@ -1,5 +1,5 @@
 ---
-title: Fundamentos
+title: -Fundamentos.
 description: Descripción, introducción y fundamento de nuestro reglamento escolar.
 ---
 

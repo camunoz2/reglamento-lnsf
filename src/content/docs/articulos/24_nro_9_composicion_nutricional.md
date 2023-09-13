@@ -1,5 +1,5 @@
 ---
-title: Protocolo Ley 20.606.Composición nutricional de los alimentos y su publicidad
+title: -Protocolo Ley 20.606.Composición nutricional de los alimentos y su publicidad.
 description: Protocolo Ley 20.606.Composición nutricional de los alimentos y su publicidad. 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Título VIII. Regulaciones referidas al ámbito de la convivencia escolar
+title: -Título VIII. Regulaciones referidas al ámbito de la convivencia escolar.
 description: Regulaciones referidas al ámbito de la convivencia escolar.
 ---
 ## Artículo N° 01: Marco conceptual:

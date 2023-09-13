@@ -1,5 +1,5 @@
 ---
-title: Protocolo de actuación frente a la detección de situaciones de vulneración de derechos. 
+title: -Protocolo de actuación frente a la detección de situaciones de vulneración de derechos. 
 
 description: actuación frente a la detección de situaciones de vulneración de derechos.
 ---

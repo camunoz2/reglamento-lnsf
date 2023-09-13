@@ -1,5 +1,5 @@
 ---
-title: Título VI. Regulaciones referidas a la gestión pedagógica.
+title: -Título VI. Regulaciones referidas a la gestión pedagógica.
 description: Regulaciones sobre la seguridad y resguardo de derecho.
 ---
 ## Artículo N° 01: Regulaciones técnico-pedagógicas

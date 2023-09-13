@@ -1,5 +1,5 @@
 ---
-title: Protocolo de atención de estudiante con diabetes tipo 1
+title: -Protocolo de atención de estudiante con diabetes tipo 1
 description: Protocolo de atención de estudiante con diabetes tipo 1
 ---
 

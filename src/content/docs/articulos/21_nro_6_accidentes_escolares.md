@@ -1,5 +1,5 @@
 ---
-title: Protocolo de accidentes escolares.
+title: -Protocolo de accidentes escolares.
 
 description: Protocolo de accidentes escolares.
 ---

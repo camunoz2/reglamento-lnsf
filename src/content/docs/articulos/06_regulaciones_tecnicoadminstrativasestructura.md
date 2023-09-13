@@ -1,5 +1,5 @@
 ---
-title: Regulaciones técnico administrativas 
+title: -Regulaciones técnico administrativas.
 description: Sobre la estructura y el funcionamiento general del establecimiento 
 ---
 En esta sección encontrarás información sobre como se organiza el establecimiento, su información técnica y administrativa. Información como los horarios de clase, los niveles y el organigrama escolar.

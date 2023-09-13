@@ -1,5 +1,5 @@
 ---
-title: Visión, misión y Sellos Educativos.
+title: -Visión, misión y Sellos Educativos.
 description: Visión, misión y Sellos Educativos.
 ---
 ## Visión, Misión y Sellos Educativos.

@@ -1,5 +1,5 @@
 ---
-title: Apoyo legal.
+title: -Apoyo legal.
 description: Apoyo legal de este reglamento interno.
 ---
 ## Apoyo legal de este reglamento interno

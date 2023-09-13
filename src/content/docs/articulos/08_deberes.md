@@ -1,5 +1,5 @@
 ---
-title: Título I.- Derechos y deberes de la Comunidad Educativa.
+title: -Título I.- Derechos y deberes de la Comunidad Educativa.
 description: En este artículo se hace mención a los derechos y deberes del equipo directivo. 
 ---
 ## Artículo N° 01: Perfil de la Comunidad Educativa: 

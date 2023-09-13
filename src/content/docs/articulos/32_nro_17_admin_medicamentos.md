@@ -1,5 +1,5 @@
 ---
-title: Protocolo ante la administración de medicamentos en horario escolar.
+title: -Protocolo ante la administración de medicamentos en horario escolar.
 description: Protocolo ante la administración de medicamentos en horario escolar.
 ---
 ## N° 17 Protocolo ante la administración de medicamentos en horario escolar.

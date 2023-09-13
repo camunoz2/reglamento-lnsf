@@ -1,5 +1,5 @@
 ---
-title: Título IX:Normas, faltas, medidas disciplinarias y procedimientos
+title: -Título IX:Normas, faltas, medidas disciplinarias y procedimientos.
 description: Normas, faltas, medidas disciplinarias y procedimientos.
 ---
 

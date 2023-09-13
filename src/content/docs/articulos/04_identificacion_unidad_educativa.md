@@ -1,5 +1,5 @@
 ---
-title: Identificación Unidad Educativa.
+title: -Identificación Unidad Educativa.
 description: Identificación del Establecimiento
 ---
 ## Identificación

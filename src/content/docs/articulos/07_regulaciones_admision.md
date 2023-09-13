@@ -1,5 +1,5 @@
 ---
-title: Admisión Escolar
+title: -Admisión Escolar.
 description: Procesos referidos al sistema de admisión escolar (SAE)
 ---
 

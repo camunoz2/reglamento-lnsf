@@ -1,5 +1,5 @@
 ---
-title: Protocolo sobre salidas pedagógicas.
+title: -Protocolo sobre salidas pedagógicas.
 description: Protocolo sobre salidas pedagógicas. 
 ---
 ## N° 7 Protocolo sobre salidas pedagógicas y/o clases en terreno. 

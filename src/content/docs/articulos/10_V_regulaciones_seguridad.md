@@ -1,6 +1,6 @@
 ---
-title: Título V. Regulaciones sobre la seguridad y resguardo de derecho
-description: Regulaciones sobre la seguridad y resguardo de derecho
+title: -Título V. Regulaciones sobre la seguridad y resguardo de derechos.
+description: Regulaciones sobre la seguridad y resguardo de derechos
 ---
 ## Artículo N°01: Plan de Seguridad (Plan de Evacuación ante Emergencias) 
 Se expone brevemente sobre la actuación que se espera de cada uno de los miembros de la comunidad ante emergencias tales como sismos, incendios, emanación de gases, presencia de explosivos y otros. Ejecución de las prácticas evacuativas: 

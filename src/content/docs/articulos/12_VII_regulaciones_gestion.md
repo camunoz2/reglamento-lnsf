@@ -1,5 +1,5 @@
 ---
-title: Título VII. Aprobación, modificación, actualización y difusión del Reglamento Interno
+title: -Título VII. Aprobación, modificación, actualización y difusión del Reglamento Interno.
 description: Aprobación, modificación, actualización y difusión del reglamento interno
 ---
 ## Artículo N°01 Aprobación, actualización y modificaciones
