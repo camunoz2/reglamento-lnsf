@@ -4,7 +4,7 @@ description: Normas, faltas, medidas disciplinarias y procedimientos.
 ---
 
 ## Artículo N° 01: Atenuantes y agravantes:
-Toda medida disciplinaria debe tener un enfoque formativo para toda la comunidad escolar. Será evaluada dependiendo de la gravedad de la conducta, respetando la dignidad de los involucrados.
+Toda medida disciplinaria debe  tener un enfoque formativo para toda la comunidad escolar. Será evaluada dependiendo de la gravedad de la conducta, respetando la dignidad de los involucrados.
 Al momento de establecer una medida o sanción se deberá tener en consideración las siguientes atenuantes o agravantes;
 1. La edad, la etapa de desarrollo y madurez de las partes involucradas;
 2. La naturaleza, intensidad y extensión del daño causado;
