@@ -7,9 +7,9 @@ description: Protocolo frente a agresiones sexuales y hechos de connotación sex
 ## N°2: Protocolo frente a agresiones sexuales y hechos de connotación sexual que atenten contra la integridad de los estudiantes.
 
 **El abuso sexual** es una forma grave de maltrato infantil. Implica la imposición a un niño, niña o adolescente, de una actividad sexualizada en la cual el ofensor obtiene una gratificación, es decir, es una imposición intencional basada en una relación de poder. Esta imposición se puede ejercer por medio de la fuerza física, el chantaje, la amenaza, la seducción, la intimidación, el engaño, la utilización de la confianza, el afecto, o cualquier otra forma de presión o manipulación psicológica.<br>**El acoso sexual**, consiste en palabras o conductas indeseadas de naturaleza sexual que tienen el propósito o efecto de crear un ambiente ofensivo, humillante, hostil, o avergonzante para el niño, niña o adolescente
-### a. Abuso sexual.
+### a). Abuso sexual.
 El abuso sexual y el estupro, son una forma grave de maltrato infantil. Implica la imposición a un niño, niña o adolescente de una actividad sexualizada en que el/la ofensor/a obtiene una gratificación, es decir, es una imposición intencional basada en una relación de poder. Esta imposición se puede ejercer por medio de la fuerza física, el chantaje, la amenaza, la seducción, la intimidación, el engaño, la utilización de la confianza, el afecto o cualquier otra forma de presión o manipulación psicológica.  
-### b. De las conductas de tipo sexual.
+### b). De las conductas de tipo sexual.
 Son conductas de tipo sexual, entre otras, las siguientes:   
 ● Exhibición de sus genitales, por parte de un tercero, al niño (a) o adolescente. El tercero podrá ser un adulto u otro estudiante.  
 ● Tocación de los genitales u otras partes del cuerpo del niño (a) o adolescente por parte de un tercero.  
@@ -20,7 +20,8 @@ Son conductas de tipo sexual, entre otras, las siguientes:
 ● Promoción o facilitación de la explotación sexual comercial de niños (as) o adolescentes.  
 ● Obtención de favores sexuales por parte de un niño (a) o adolescente a cambio de dinero u otras prestaciones.
 
-RECORDAR COMO LO ESTABLECE NUESTRO R. INTERNO QUE : “En caso que cualquier funcionario sea testigo de un delito o presuma la existencia de un delito hacia una estudiante, tendrá el deber de informar a Carabineros de Chile, Policía de Investigaciones o Tribunal competente en materia penal, en un plazo máximo de 24 horas. Para ello, deberá ir directamente a la unidad policial más cercana o a las oficinas del tribunal, según corresponda. También podrá ingresar la denuncia en la página oficial de: https://oficinajudicialvirtual.pjud.cl/home/index.php.”
+**Recordar co mo lo establece nuestro R. Interno que:** 
+ “En caso que cualquier funcionario sea testigo de un delito o presuma la existencia de un delito hacia una estudiante, tendrá el deber de informar a Carabineros de Chile, Policía de Investigaciones o Tribunal competente en materia penal, en un plazo máximo de 24 horas. Para ello, deberá ir directamente a la unidad policial más cercana o a las oficinas del tribunal, según corresponda. También podrá ingresar la denuncia en la página oficial de: https://oficinajudicialvirtual.pjud.cl/home/index.php.”
 
 Este protocolo de actuación, debe ser aplicado siempre que alguna de estas condiciones se cumpla. Se contemplará: 
 - Caso de sospecha o abuso sexual de un adulto (familiar, conocido, entre otros), que no pertenezcan al establecimiento. 

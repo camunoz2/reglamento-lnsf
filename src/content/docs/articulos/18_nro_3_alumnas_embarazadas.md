@@ -5,8 +5,8 @@ description: Protocolo alumnas embarazadas.
 ---
 
 ## N° 3 Protocolo de retención y apoyo a alumnas embarazadas, madres y padres estudiantes  
-**a.** El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.  
-### b. Derechos de estudiantes embarazadas, madres o padres adolescente. 
+**a).** El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.  
+### b). Derechos de estudiantes embarazadas, madres o padres adolescente. 
 Las alumnas en situación de embarazo o maternidad tienen los mismos derechos que los demás alumnos y alumnas en relación a su ingreso y permanencia en los establecimientos educacionales, no pudiendo ser objeto de ningún tipo de discriminación, en especial el cambio de establecimiento o expulsión, la cancelación de matrícula, la negación de matrícula, la suspensión u otra similar.
 
 | Derecho de estudiantes embarazadas, madres o padres adolescentes. |
@@ -28,7 +28,7 @@ Las alumnas en situación de embarazo o maternidad tienen los mismos derechos qu
 | **15)** EI alumno tiene derecho a permisos y adecuación de horarios de entrada y salida dependiendo de las etapas del embarazo y su rol como progenitor. (Dichos permisos, entradas y salidas deben ser solicitados por el alumno a través de la documentación médica respectiva). |
 | **16)** EI alumno tiene derecho a justificar inasistencia a través de certificado médico por enfermedad de su hijo, al tratarse de labores o cuidados acordes a su rol de padre. |
 
-### c. Deberes de estudiantes embarazadas, madres o padres adolescente.
+### c). Deberes de estudiantes embarazadas, madres o padres adolescente.
 Las alumnas en situación de embarazo o maternidad deben cumplir ciertos deberes,cuales son:
 
 | Deberes de estudiantes embarazadas,madres o padres adolescentes |
@@ -41,7 +41,7 @@ Las alumnas en situación de embarazo o maternidad deben cumplir ciertos deberes
 | **6)** El estudiante que será padre o lo es deberá informar al colegio para tener las facilidades de permisos para asistir a los controles médicos de la futura madre o del bebé. |
 | **7)** El alumno debe informar a las autoridades del Colegio de su condición de progenitor, entregando los antecedentes correspondientes a Profesor Jefe, Convivencia escolar y Dirección del colegio. |
 
-### d. Deberes del colegio con las estudiantes en condiciones de maternidad o embarazadas.
+### d). Deberes del colegio con las estudiantes en condiciones de maternidad o embarazadas.
  En virtud de los principios que inspiran el sistema educativo y a objeto de asegurar el debido ejercicio del derecho a la educación de las alumnas embarazadas, y de las madres y padres estudiantes, el establecimiento educacional está obligado a cumplir los siguientes deberes:
 
 | Deberes del colegio con las estudiantes en condiciones en condiciones de maternidad o embarazadas. |
